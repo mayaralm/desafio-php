@@ -1,0 +1,48 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+.menu{    
+    background-color: #698B69;
+    width: 99.9%;
+    height: 70px;
+    text-align: center;
+    
+}
+
+.menu ul{
+    list-style:none;
+    font-size: 10px;
+    color: black;
+}
+
+.menu ul li { 
+    display: inline; 
+    
+}
+.menu ul li a button{
+    width: 120px;
+    height: 50px;
+    margin: 10px;
+    font-family: arial;
+    font-size: 14px;
+}
+.menu ul li a{
+    text-decoration:none;
+}
+.sub-menu{
+    text-align: center;    
+}
+
+.indexFooter{
+    margin-top: 445px;
+    background-color:#698B69;
+    width: 99.9%;
+    height: 85px;
+}
+
+footer h4{
+    padding-top: 40px;
+    text-align: center;
+}
